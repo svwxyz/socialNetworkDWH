@@ -1,0 +1,18 @@
+[
+    {
+        "file_path":"friends_table.csv",
+        "file_name":"friends_table"
+    },
+    {
+        "file_path":"post_table.csv",
+        "file_name":"post_table"
+    },
+    {
+        "file_path":"reactions_table.csv",
+        "file_name":"reactions_table"
+    },
+    {
+        "file_path":"user_table.csv",
+        "file_name":"user_table"
+    }
+]
