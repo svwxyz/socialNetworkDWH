@@ -5,7 +5,7 @@
         "table_name":"friends_table"
     },
     {
-        "file_path":"post_table.csv",
+        "file_path":"posts_table.csv",
         "file_name":"post_table",
          "table_name":"post_table"
     },
