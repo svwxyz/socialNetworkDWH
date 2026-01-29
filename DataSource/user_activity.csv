@@ -1,0 +1,6 @@
+activity_id,user_id,activity_type,activity_time
+1,1,login,2021-02-01 08:55:00
+2,1,post,2021-02-01 09:15:00
+3,2,login,2021-02-01 08:58:00
+4,3,scroll,2021-02-01 09:12:00
+5,4,logout,2021-02-01 09:30:00
